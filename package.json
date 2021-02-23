@@ -1,0 +1,24 @@
+{
+  "name": "cli-pets",
+  "version": "1.0.0",
+  "description": "Command Line Interface to register and lookup for pets with Inquirer prompts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisgodoy/cli-pets.git"
+  },
+  "keywords": [],
+  "author": "denisgodoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denisgodoy/cli-pets/issues"
+  },
+  "homepage": "https://github.com/denisgodoy/cli-pets#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "uuid": "^8.3.2"
+  }
+}
